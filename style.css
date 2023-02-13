@@ -95,8 +95,6 @@ p {
     filter: grayscale(0);
 }
 .hv {
-    /* display: flex; */
-    /* justify-content: center; */
     padding-top: 360px;
     margin-left: -250px;
     position: absolute;
