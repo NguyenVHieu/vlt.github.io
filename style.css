@@ -17,7 +17,7 @@ h1 {
     color: 
 #8D0000;
     position: absolute;
-    top: 50%;
+    top: 30%;
     transform: translateY(-50%);
     left: 0;
     right: 0;
@@ -95,7 +95,9 @@ p {
     filter: grayscale(0);
 }
 .hv {
-    
+    /* display: flex; */
+    /* justify-content: center; */
     padding-top: 360px;
+    margin-left: -250px;
     position: absolute;
 }
